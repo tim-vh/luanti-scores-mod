@@ -1,0 +1,12 @@
+{
+    "type": "MOD",
+    "title": "Scores",
+    "name": "scores",
+    "short_description": "Keep track of player scores and show the score and a ranking in the HUD",
+    "dev_state": "WIP",
+    "ai_disclosure": "ASSISTED",
+    "tags": ["hud"],
+    "license": "MIT",
+    "repo": "https://github.com/tim-vh/luanti-scores-mod",
+    "website": "https://tim-vh.dev/"
+}
